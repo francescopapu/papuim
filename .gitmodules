@@ -1,4 +1,0 @@
-[submodule "website/public"]
-	path = website/public
-	url = https://github.com/francescopapu/francescopapu.github.io.git
-	branch = main
